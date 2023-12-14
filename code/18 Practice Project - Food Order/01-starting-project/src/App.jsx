@@ -5,7 +5,6 @@ import Meals from './components/Meals';
 import { CartContextProvider } from './store/CartContext';
 import { UserProgressContextProvider } from './store/UserProgressContext';
 
-// Comment here
 function App() {
   return (
     <>
